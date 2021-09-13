@@ -36,7 +36,7 @@ List of VueJS Interview Questions
 3.  ### What are the lifecycle methods of VueJS?
     Lifecycle hooks are a window into how the library you’re using works behind-the-scenes. By using these hooks, you will know when your component is created, added to the DOM, updated, or destroyed. Let's look at lifecycle diagram before going to each lifecycle hook in detail,
 
-    <img src="" width="400" height="800">
+    <img src="https://github.com/haigv/300-bai-phong-van-thieu-nhi/blob/main/vuelifecycle.png" width="400" height="800">
 
     1. **Creation(Initialization):**
         Creation Hooks allow you to perform actions before your component has even been added to the DOM. You need to use these hooks if you need to set things up in your component both during client rendering and server rendering. Unlike other hooks, creation hooks are also run during server-side rendering.
